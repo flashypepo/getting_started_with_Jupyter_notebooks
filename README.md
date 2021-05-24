@@ -1,5 +1,5 @@
-# Lifeproject: getting started with_Jupyter notebooks
+# Lifeproject: getting started with Jupyter notebooks
 My results of the Live Project course.
 
-Mnning liveproject: https://liveproject.manning.com
+Manning liveproject https://liveproject.manning.com
 
